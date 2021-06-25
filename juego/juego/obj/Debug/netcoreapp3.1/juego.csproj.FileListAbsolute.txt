@@ -1,0 +1,13 @@
+C:\Users\Emi\source\repos\juego\juego\bin\Debug\netcoreapp3.1\juego.exe
+C:\Users\Emi\source\repos\juego\juego\bin\Debug\netcoreapp3.1\juego.deps.json
+C:\Users\Emi\source\repos\juego\juego\bin\Debug\netcoreapp3.1\juego.runtimeconfig.json
+C:\Users\Emi\source\repos\juego\juego\bin\Debug\netcoreapp3.1\juego.runtimeconfig.dev.json
+C:\Users\Emi\source\repos\juego\juego\bin\Debug\netcoreapp3.1\juego.dll
+C:\Users\Emi\source\repos\juego\juego\bin\Debug\netcoreapp3.1\juego.pdb
+C:\Users\Emi\source\repos\juego\juego\obj\Debug\netcoreapp3.1\juego.csproj.AssemblyReference.cache
+C:\Users\Emi\source\repos\juego\juego\obj\Debug\netcoreapp3.1\juego.AssemblyInfoInputs.cache
+C:\Users\Emi\source\repos\juego\juego\obj\Debug\netcoreapp3.1\juego.AssemblyInfo.cs
+C:\Users\Emi\source\repos\juego\juego\obj\Debug\netcoreapp3.1\juego.csproj.CoreCompileInputs.cache
+C:\Users\Emi\source\repos\juego\juego\obj\Debug\netcoreapp3.1\juego.dll
+C:\Users\Emi\source\repos\juego\juego\obj\Debug\netcoreapp3.1\juego.pdb
+C:\Users\Emi\source\repos\juego\juego\obj\Debug\netcoreapp3.1\juego.genruntimeconfig.cache
