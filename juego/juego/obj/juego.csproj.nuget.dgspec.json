@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emi\\source\\repos\\juego\\juego\\juego.csproj": {}
+    "C:\\tallergit\\repositorios\\juegorol-emybar\\juego\\juego\\juego.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emi\\source\\repos\\juego\\juego\\juego.csproj": {
+    "C:\\tallergit\\repositorios\\juegorol-emybar\\juego\\juego\\juego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emi\\source\\repos\\juego\\juego\\juego.csproj",
+        "projectUniqueName": "C:\\tallergit\\repositorios\\juegorol-emybar\\juego\\juego\\juego.csproj",
         "projectName": "juego",
-        "projectPath": "C:\\Users\\Emi\\source\\repos\\juego\\juego\\juego.csproj",
-        "packagesPath": "C:\\Users\\Emi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emi\\source\\repos\\juego\\juego\\obj\\",
+        "projectPath": "C:\\tallergit\\repositorios\\juegorol-emybar\\juego\\juego\\juego.csproj",
+        "packagesPath": "C:\\Users\\Emilia\\.nuget\\packages\\",
+        "outputPath": "C:\\tallergit\\repositorios\\juegorol-emybar\\juego\\juego\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Emilia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

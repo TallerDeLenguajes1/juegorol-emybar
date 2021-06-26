@@ -24,6 +24,7 @@ namespace juego
         private int poderDisparo;
         private int poderDefensa;
 
+
         
         public string Nombre { get => nombre; set => nombre = value; }
         public DateTime Fechadenacimiento { get => fechadenacimiento; set => fechadenacimiento = value; }
@@ -37,7 +38,7 @@ namespace juego
         public int PoderDisparo { get => poderDisparo; set => poderDisparo = value; }
         public int PoderDefensa { get => poderDefensa; set => poderDefensa = value; }
         public string Tipo { get => tipo; set => tipo = value; }
-      
+
 
         public int defensa()
         {
