@@ -389,7 +389,7 @@ namespace juego
             var url = $"http://asterank.com/api/mpc";
             var request = (HttpWebRequest)WebRequest.Create(url);
             request.Method = "GET";
-            request.ContentType = "aplicattion/json";
+            request.ContentType = "application/json";
             request.Accept = "application/json";
 
             try
